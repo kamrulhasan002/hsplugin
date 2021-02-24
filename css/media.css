@@ -1,0 +1,98 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+
+     
+                /* kit1 start */
+                .k1_single {
+                    padding-top: 50px;
+                    padding-bottom: 45px;
+                }
+                .k1_single img  {
+                    margin-top: 35px;
+                    font-size: 45px;
+                }
+                .k1_single h2 {
+                    margin-top: 30px;
+                    margin-bottom: 10px;
+                    font-size: 17px;
+                }
+                /* photo start */
+                .box .title {
+                    font-size: 14px;
+                }
+                .box .comment {
+                    font-size: 12px;
+                }
+
+                /* download start */
+                .d_content h2 {
+                    font-size: 24px;
+                }
+                .d_content p {
+                    font-size: 13px;
+                }
+               
+                .d_content button {
+                    width: 260px;
+                    height: 40px;
+                    font-size: 11px;
+                }
+                /* location start */
+                .location{
+                    margin-bottom: 35px;
+                }
+                .location h2 {
+                    margin-bottom: 10px;
+                    font-size: 16px;
+                }
+               
+                .location_p {
+                    font-size: 14px;
+                    line-height: 22px;
+                }
+                /* footer start */
+                .f_content p {
+                    font-size: 13px;
+                }
+            }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+     
+    /*kit1 start*/
+     .k1_single{
+        margin-bottom: 40px;
+    }
+    .k1_single2{
+        margin-bottom: 0px;
+    }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+    /*kit1 start*/
+    .k1_single{
+        margin-bottom: 50px;
+    }
+    .k1_single2:last-child{
+        margin-bottom: 0px;
+    }
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  
+}
+
+/*Extra extra large devices (Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+    
+ }
+
+
